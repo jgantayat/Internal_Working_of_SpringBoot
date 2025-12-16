@@ -1,3 +1,6 @@
 spring:
   application:
     name: SpringBoot
+payment:
+  provider : razorPay
+debug : true
